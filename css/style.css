@@ -1,0 +1,44 @@
+body {
+  background-color: #EEEEEE; }
+
+h2 {
+  font-weight: bold; }
+
+h3 {
+  margin-top: 10px; }
+
+.panel {
+  font-size: 18px;
+  padding-left: 0;
+  padding-right: 0; }
+
+.panel-heading {
+  font-weight: bold; }
+
+#js-newGameElement {
+  margin-top: 25px; }
+
+#js-playerPickElement {
+  margin-top: 10px;
+  margin-bottom: 20px; }
+  #js-playerPickElement button {
+    margin-top: 5px; }
+
+#js-computerPanel {
+  margin-bottom: 0; }
+
+#js-playerPanel {
+  margin-bottom: 10px; }
+
+#js-playerResult,
+#js-computerResult {
+  padding-top: 5px; }
+
+.panel-body {
+  padding: 10px; }
+
+.panel-footer {
+  padding-top: 5px;
+  padding-bottom: 5px; }
+
+/*# sourceMappingURL=style.css.map */
